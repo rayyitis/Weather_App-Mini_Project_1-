@@ -12,5 +12,5 @@ Tech Stack
 - API: OpenWeather API for real-time weather data,
 - Styling: Tailwind CSS for sleek and responsive design
 - Overview (UI):
-- ![Screenshot 2024-12-22 194533](https://github.com/user-attachments/assets/bfc89286-1608-4cfa-b13b-0241e75cbe7f)
+ ![Screenshot 2024-12-22 194533](https://github.com/user-attachments/assets/bfc89286-1608-4cfa-b13b-0241e75cbe7f)
 
